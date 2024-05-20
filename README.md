@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://dimasrosyidin.github.io/Dimaspjt/)
+[Demo](https://dimasrosyidin.github.io/dimaspjt.github.io/)
 
 ## 🚀 How to Use
 
